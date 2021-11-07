@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="container">
-        <h1>iadfugAi</h1>
+        <h1>HOME AAAAAAAAAAAA</h1>
     </div>
 
 @endsection
